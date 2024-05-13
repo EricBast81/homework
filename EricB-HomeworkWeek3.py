@@ -1,5 +1,20 @@
 #Python Homework Week 3
 
+#Question 1- What is an algorithm?
+#--An algorithm is a set of instructions to do a specific thing.
+
+#Question 2- Variable names may not start with certain characters - name two.
+#-- They can't start with numbers or special character
+
+#Question 3- What is a Semantic error?
+#-- A semantic error is an error in the typing of a command that does not make sense to the computer. 
+
+#Question 4- What is the #1 rule of coding / debugging?
+#-- Complexity does not lead to efficiency
+
+#Question 5- List 5 Python reserved words.
+#break, class, with, and, not
+
 #Question 6
 #Write a multi-line string with your name, favorite food, and dream job on 3 different lines
 quest6 = """
